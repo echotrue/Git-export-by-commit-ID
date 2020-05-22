@@ -1,4 +1,10 @@
 #!/bin/bash
+# -------------------------------------------------
+# Filename： export.sh
+# Date: 2020-5-22 17:37:24
+# Author: axlrose
+# Description: Script for git export
+# -------------------------------------------------
 
 #file dir
 file_dir=/xxx/xxx/xxx/
