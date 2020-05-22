@@ -1,9 +1,9 @@
 #!/bin/bash
 
 #file dir
-file_dir=/f/wnmp/wwwroot/h5game/
+file_dir=/xxx/xxx/xxx/
 #export dir
-export_dir=/f/tool/www/new/
+export_dir=/xxx/xxx/xxx/
 
 for key2 in $*
 do
